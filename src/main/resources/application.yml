@@ -1,0 +1,3 @@
+spring:
+  application:
+    name: taxa-selic-anual-api
